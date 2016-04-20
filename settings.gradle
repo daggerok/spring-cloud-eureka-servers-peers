@@ -1,0 +1,5 @@
+rootProject.name = 'spring-cloud-eureka-servers-peers'
+include ':config-server',
+        ':eureka-server-peer1',
+        ':eureka-server-peer2',
+        ':eureka-client'

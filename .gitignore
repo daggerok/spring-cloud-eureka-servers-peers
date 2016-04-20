@@ -1,0 +1,13 @@
+**/.gradle/
+**/out/
+**/.DS_Store
+**/*.iws
+**/.idea/
+**/build/
+*/gradle/
+*/gradlew*
+**/gradlew*
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
